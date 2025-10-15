@@ -1,0 +1,67 @@
+{
+  "all-resumes": [
+    {
+      "id": "75f6",
+      "profesionlData": {
+        "name": "Bhavya",
+        "jobTitle": "Developer",
+        "location": "palakkad",
+        "email": "bh@gmail.com",
+        "phone": "986657893",
+        "github": "gitbhavya.com",
+        "linkedIn": "bhavyalinked.in",
+        "portfolio": "yuehr"
+      },
+      "educationData": {
+        "course": "ECE",
+        "college": "Sri Ramakrishna",
+        "university": "Anna",
+        "year": "2022"
+      },
+      "experience": {
+        "jobRole": "Mearnstack debvloper",
+        "company": "luminarr",
+        "jobLocation": "kochi",
+        "duration": "6"
+      },
+      "skill": [
+        "JAVASCRIPT",
+        "REACT",
+        "CSS",
+        "HTML"
+      ],
+      "summary": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, "
+    },
+    {
+      "id": "3cc5",
+      "profesionlData": {
+        "name": "Carolin",
+        "jobTitle": "Developer",
+        "location": "Mumbai",
+        "email": "carolingmail.com",
+        "phone": "9978382189",
+        "github": "caroling.git.com",
+        "linkedIn": "carol.in",
+        "portfolio": "urhie"
+      },
+      "educationData": {
+        "course": "cse",
+        "college": "Srikrishna",
+        "university": "Anna",
+        "year": "2023"
+      },
+      "experience": {
+        "jobRole": "mearnstack debvloper",
+        "company": "luminarr",
+        "jobLocation": "kochi",
+        "duration": "5"
+      },
+      "skill": [
+        "JAVASCRIPT",
+        "REACT",
+        "MONGODB"
+      ],
+      "summary": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, "
+    }
+  ]
+}
